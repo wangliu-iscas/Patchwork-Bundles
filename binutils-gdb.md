@@ -7,8 +7,8 @@
 [2022-09](https://patchwork.plctlab.org/bundle/patchwork-bot/binutils-gdb_2022-09/)   
 
 ## 2023
-[2023-02](https://patchwork.plctlab.org/bundle/patchwork-bot/binutils-gdb_2023-02/) 
-[2023-01](https://patchwork.plctlab.org/bundle/patchwork-bot/binutils-gdb_2023-01/) 
+[2023-02](https://patchwork.plctlab.org/bundle/patchwork-bot/binutils-gdb_2023-02/)    
+[2023-01](https://patchwork.plctlab.org/bundle/patchwork-bot/binutils-gdb_2023-01/)   
 
 ## 2024
 
