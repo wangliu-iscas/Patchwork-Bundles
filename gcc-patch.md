@@ -8,6 +8,7 @@
 
 ## 2023
 [2023-11](https://patchwork.plctlab.org/bundle/patchwork-bot/gcc-patch_2023-11)   
+[2023-11](https://patchwork.plctlab.org/bundle/patchwork-bot/gcc-patch_2023-11)   
 [2023-10](https://patchwork.plctlab.org/bundle/patchwork-bot/gcc-patch_2023-10)   
 [2023-09](https://patchwork.plctlab.org/bundle/patchwork-bot/gcc-patch_2023-09)   
 [2023-08](https://patchwork.plctlab.org/bundle/patchwork-bot/gcc-patch_2023-08)   
